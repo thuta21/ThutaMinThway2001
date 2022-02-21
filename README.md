@@ -13,10 +13,14 @@
 
 - ⚡ Fun fact **I love living with my cats.**
 
-<a href="https://github.com/AVS1508">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThutaMinThway2001&show_icons=true&theme=tokyonight)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThutaMinThway2001&theme=buefy&layout=compact" />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ThutaMinThway2001">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThutaMinThway2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThutaMinThway2001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
