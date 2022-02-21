@@ -12,6 +12,10 @@
 - 📫 How to reach me **https://www.facebook.com/thutaminthway2001/**
 
 - ⚡ Fun fact **I love living with my cats.**
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThutaMinThway2001&show_icons=true&theme=tokyonight)
 
